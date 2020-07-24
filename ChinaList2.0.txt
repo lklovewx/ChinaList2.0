@@ -2,8 +2,6 @@
 ! Version: 20190703001
 ! Title:  ChinaListV2.0[20190703001]
 ! Last modified: 2019/07/03 12:35:03 +0800
-! Email: yiclear@aliyun.com
-! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
 -880-80-4.jpg
 .cc/js/ads/
